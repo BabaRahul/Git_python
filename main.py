@@ -13,6 +13,8 @@ def print_hi(name):
 if __name__ == '__main__':
     name = "Man"
     address = 'India'
+    love = 'sex'
+    dam = 'sex'
     print_hi(f"Hey Pycharm, I love .{name}")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
